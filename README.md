@@ -47,7 +47,8 @@ PlaceMate is a full-stack career-oriented platform designed to help users **plan
 - Improves productivity and focus
 
 📸 **Screenshot Placeholder:**  
-`![Goals Page](screenshots/goals-page.png)`
+<img width="1877" height="764" alt="Screenshot 2025-11-06 181516" src="https://github.com/user-attachments/assets/4c93397b-ecee-4d65-9deb-34ad31330007" />
+
 
 ---
 
@@ -58,7 +59,8 @@ PlaceMate is a full-stack career-oriented platform designed to help users **plan
 - Editable and export-ready resumes
 
 📸 **Screenshot Placeholder:**  
-`![AI Resume Builder](screenshots/ai-resume-builder.png)`
+<img width="1888" height="918" alt="Screenshot 2025-12-02 104204" src="https://github.com/user-attachments/assets/37a1ffe4-7b5d-4fa4-b95a-72c75c88095d" />
+
 
 ---
 
@@ -85,7 +87,8 @@ PlaceMate is a full-stack career-oriented platform designed to help users **plan
   - Mentorship sessions
 
 📸 **Screenshot Placeholder:**  
-`![Video Calling](screenshots/video-calling.png)`
+<img width="1900" height="918" alt="Screenshot 2025-11-06 181426" src="https://github.com/user-attachments/assets/40a2dfc1-ae77-4ea0-96b0-834f5c5915f6" />
+
 
 ---
 
