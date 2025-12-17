@@ -71,8 +71,8 @@ PlaceMate is a full-stack career-oriented platform designed to help users **plan
 - Encourages peer learning and collaboration
 
 📸 **Screenshot Placeholder:**  
-`<img width="1901" height="919" alt="Screenshot 2025-11-06 181618" src="https://github.com/user-attachments/assets/8b1024ac-dae7-4843-96ff-dc79f0d817c9" />
-`
+<img width="1901" height="919" alt="Screenshot 2025-11-06 181618" src="https://github.com/user-attachments/assets/8b1024ac-dae7-4843-96ff-dc79f0d817c9" />
+
 
 ---
 
